@@ -1,0 +1,6 @@
+.venv/
+data/flood_dataset.csv
+data/flood dataset.xlsx
+get-pip.py
+__pycache__/
+*.pyc
